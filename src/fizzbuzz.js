@@ -3,7 +3,7 @@ function fizzbuzz(a) {
     {
         return "Fizz";
     }
-    else if (a === 5)
+    else if (a % 5 === 0)
     {
         return "Buzz";
     }
