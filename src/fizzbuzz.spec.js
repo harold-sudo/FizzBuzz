@@ -21,5 +21,9 @@ describe("FizzBuzz", () => {
     expect(fizzbuzz(5)).toEqual("Buzz");
   });
 
+  it("cualquier numero multiplo de 5", () => {
+    expect(fizzbuzz(10)).toEqual("Buzz");
+  });
+
 });
 
