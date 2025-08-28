@@ -19,12 +19,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "d276011b6567231461b85e0f01e37f9003d545ef",
     "author": "Harold Sejas",
     "commit": {
       "date": "2025-08-28T00:42:37.000Z",
       "message": "Feat: Test en verde/un numero no multiplo",
-      "url": "https://github.com/harold-sudo/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/harold-sudo/FizzBuzz/commit/d276011b6567231461b85e0f01e37f9003d545ef"
     },
     "stats": {
       "total": 4,
@@ -36,5 +36,24 @@
     "test_count": 2,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Harold Sejas",
+    "commit": {
+      "date": "2025-08-28T00:44:36.000Z",
+      "message": "Fix: Test en verde/un numero no multiplo",
+      "url": "https://github.com/harold-sudo/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 3,
+      "deletions": 2,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
