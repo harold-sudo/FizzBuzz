@@ -266,12 +266,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "eb9d75239fd91e97448d18b3f088b165b799128b",
     "author": "Harold Sejas",
     "commit": {
       "date": "2025-08-28T01:11:50.000Z",
       "message": "Feat: Test en verde/multiplo de 3 y 5",
-      "url": "https://github.com/harold-sudo/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/harold-sudo/FizzBuzz/commit/eb9d75239fd91e97448d18b3f088b165b799128b"
     },
     "stats": {
       "total": 10,
@@ -283,5 +283,24 @@
     "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Harold Sejas",
+    "commit": {
+      "date": "2025-08-28T01:16:52.000Z",
+      "message": "Feat: Test en rojo/ secuencia FizzBuzz",
+      "url": "https://github.com/harold-sudo/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
