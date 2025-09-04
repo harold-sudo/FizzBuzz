@@ -304,18 +304,37 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "13e40bfa00f00ff20a7f75a81f9d0423b0b26e05",
     "author": "Harold Sejas",
     "commit": {
       "date": "2025-08-28T01:19:36.000Z",
       "message": "Feat: Test en verde/ secuencia FizzBuzz",
-      "url": "https://github.com/harold-sudo/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/harold-sudo/FizzBuzz/commit/13e40bfa00f00ff20a7f75a81f9d0423b0b26e05"
     },
     "stats": {
       "total": 21,
       "additions": 20,
       "deletions": 1,
       "date": "2025-08-28"
+    },
+    "coverage": 88.89,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Harold Sejas",
+    "commit": {
+      "date": "2025-09-04T13:21:19.000Z",
+      "message": "Fix: código completo",
+      "url": "https://github.com/harold-sudo/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 20,
+      "deletions": 2,
+      "date": "2025-09-04"
     },
     "coverage": 88.89,
     "test_count": 8,
